@@ -1,6 +1,5 @@
 # PLymouth-Uni-Maze-Game
 This repository contains the maze game code for the 1000 coursework.
-I am using Mac VS code as VS is no longer available for Mac. I tried to put as much information as I can to make it easier to run this code.
 
 # Game Overview
 This code is for a maze game where a player must navigate through a procedurally generated maze to reach an exit door while avoiding enemies. The game features:
